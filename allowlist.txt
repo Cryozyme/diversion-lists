@@ -16,6 +16,7 @@ push.prod.netflix.com
 sessions.bugsnag.com
 tstc.instructure.com
 tstc.quiz-lti-pdx-prod.instructure.com
+tstc.quiz-api-pdx-prod.instructure.com
 wireguard.com
 steamclouduseast.blob.core.windows.net
 steamclouduseast2.blob.core.windows.net
