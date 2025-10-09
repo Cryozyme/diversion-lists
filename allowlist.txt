@@ -21,3 +21,4 @@ wireguard.com
 steamclouduseast.blob.core.windows.net
 steamclouduseast2.blob.core.windows.net
 steamcloud-us-east.s3.dualstack.us-east-1.amazonaws.com
+marketplace.visualstudio.com
