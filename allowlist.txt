@@ -23,3 +23,4 @@ steamclouduseast2.blob.core.windows.net
 steamcloud-us-east.s3.dualstack.us-east-1.amazonaws.com
 marketplace.visualstudio.com
 quiz-api-production-s3-uploads-pdx.s3.us-west-2.amazonaws.com
+mail.outlook.com
