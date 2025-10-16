@@ -24,3 +24,5 @@ steamcloud-us-east.s3.dualstack.us-east-1.amazonaws.com
 marketplace.visualstudio.com
 quiz-api-production-s3-uploads-pdx.s3.us-west-2.amazonaws.com
 smtp-mail.outlook.com
+smtp.gmail.com
+massgrave.dev
