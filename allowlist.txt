@@ -36,3 +36,4 @@ powershellinfraartifacts-gkhedzdeaghdezhr.z01.azurefd.net
 c.go-mpulse.net
 js.monitor.azure.com
 remoteassistanceprodacs.communication.azure.com
+dc.services.visualstudio.com
