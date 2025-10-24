@@ -37,3 +37,5 @@ c.go-mpulse.net
 js.monitor.azure.com
 remoteassistanceprodacs.communication.azure.com
 dc.services.visualstudio.com
+
+epicgames-download1.akamaized.net
