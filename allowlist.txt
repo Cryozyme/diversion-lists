@@ -1,6 +1,7 @@
 account.live.com
 amazon.com
 lh3.googleusercontent.com
+cdn.gladly.com
 
 #Netflix Mobile
 android-anycast.prod.ftl.netflix.com
