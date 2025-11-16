@@ -3,6 +3,7 @@ amazon.com
 lh3.googleusercontent.com
 mirrors.ocf.berkeley.edu
 safe.search.brave.com
+pshelpprod.z22.web.core.windows.net
 
 #Netflix Mobile
 android-anycast.prod.ftl.netflix.com
