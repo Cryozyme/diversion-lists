@@ -86,3 +86,4 @@ yuriscenes.com
 zohopublic.com
 zonatmo.com
 acidcow.com
+search.brave.com
