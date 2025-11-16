@@ -2,6 +2,7 @@ account.live.com
 amazon.com
 lh3.googleusercontent.com
 mirrors.ocf.berkeley.edu
+safe.search.brave.com
 
 #Netflix Mobile
 android-anycast.prod.ftl.netflix.com
