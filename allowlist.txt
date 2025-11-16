@@ -4,8 +4,6 @@ lh3.googleusercontent.com
 mirrors.ocf.berkeley.edu
 safe.search.brave.com
 pshelpprod.z22.web.core.windows.net
-
-#Netflix Mobile
 android-anycast.prod.ftl.netflix.com
 android.prod.cloud.netflix.com
 android.prod.ftl.netflix.com
@@ -15,11 +13,9 @@ logs.netflix.com
 netflix.com
 nrdp.ws.ale.netflix.com
 push.prod.netflix.com
-
 github.io
 mega.co.nz
 newegg.com
-
 openvpn.net
 sessions.bugsnag.com
 tstc.instructure.com
@@ -34,13 +30,10 @@ quiz-api-production-s3-uploads-pdx.s3.us-west-2.amazonaws.com
 smtp-mail.outlook.com
 smtp.gmail.com
 massgrave.dev
-
-#MS Quick Assist
 powershellinfraartifacts-gkhedzdeaghdezhr.z01.azurefd.net
 c.go-mpulse.net
 js.monitor.azure.com
 remoteassistanceprodacs.communication.azure.com
 dc.services.visualstudio.com
-
 epicgames-download1.akamaized.net
 code.visualstudio.com
