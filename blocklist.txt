@@ -90,3 +90,6 @@ search.brave.com
 qwant.com
 startpage.com
 lycos.com
+searx.space
+sogou.com
+swisscows.com
