@@ -77,7 +77,7 @@ webtoon.xyz
 webtooni.net
 wholesomelist.com
 wotaku.wiki
-www.mehentaivn.xyz
+mehentaivn.xyz
 x3dl.net
 xalosach.com
 xtoon2.com
@@ -88,8 +88,5 @@ zonatmo.com
 acidcow.com
 search.brave.com
 qwant.com
-#www.qwant.com
 startpage.com
-#www.startpage.com
 lycos.com
-#www.lycos.com
