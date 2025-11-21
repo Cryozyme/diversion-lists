@@ -38,3 +38,4 @@ dc.services.visualstudio.com
 epicgames-download1.akamaized.net
 code.visualstudio.com
 lm.facebook.com
+sky.cs.berkeley.edu
