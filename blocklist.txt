@@ -204,3 +204,4 @@ local=/listcord.org/
 local=/discordinvites.net/
 local=/serverhunt.net/
 local=/imgflip.com/
+local=/wixmp.com/
