@@ -203,3 +203,4 @@ local=/discordhome.com/
 local=/listcord.org/
 local=/discordinvites.net/
 local=/serverhunt.net/
+local=/imgflip.com/
