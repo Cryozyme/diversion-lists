@@ -212,3 +212,5 @@ local=/encrypted-tbn3.gstatic.com/
 local=/redd.it/
 local=/jeuxvideo.com/
 local=/noelshack.com/
+local=/narodnatribuna.info/
+local=/gscdn.nl/
