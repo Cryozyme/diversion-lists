@@ -209,3 +209,4 @@ local=/encrypted-tbn0.gstatic.com/
 local=/encrypted-tbn1.gstatic.com/
 local=/encrypted-tbn2.gstatic.com/
 local=/encrypted-tbn3.gstatic.com/
+local=/i.redd.it/
