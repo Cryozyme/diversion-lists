@@ -215,3 +215,5 @@ local=/noelshack.com/
 local=/narodnatribuna.info/
 local=/gscdn.nl/
 local=/pinimg.com/
+local=/bustle.com/
+local=/thezoereport.com/
